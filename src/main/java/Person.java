@@ -13,7 +13,7 @@ public class Person {
     private Gender gender;
     private LocalDate dob;
     private double income;
-    // constructor
+    // construct
     public Person(long id, String name, Gender gender,
                   LocalDate dob, double income) {
         this.id = id;
