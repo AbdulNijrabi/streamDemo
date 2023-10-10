@@ -18,15 +18,15 @@
     - Create a new stream by concatenating two lists of persons.
 10. **AnyMatch (Terminal Operation):**
 - Check if any person's income is greater than 8000.0.
-1. **AllMatch (Terminal Operation):**
+11. **AllMatch (Terminal Operation):**
 - Check if all persons are male.
-1. **NoneMatch (Terminal Operation):**
+12. **NoneMatch (Terminal Operation):**
 - Check if none of the persons have zero income.
-1. **Count (Terminal Operation):**
-- Count the number of persons.
-1. **FindFirst (Terminal Operation):**
+13. **Count (Terminal Operation):**
+- Count the number of persons who are female.
+14. **FindFirst (Terminal Operation):**
 - Find the first person in the list.
-1. **FindAny (Terminal Operation):**
+15. **FindAny (Terminal Operation):**
 - Find any person in the list.
 
 16 **Max (Terminal Operation):**
